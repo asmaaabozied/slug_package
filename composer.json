@@ -3,7 +3,7 @@
     "description": "package Slug By Asmaa",
     "type": "library",
     "require": {
-       
+          "php": "^8.2"
     },
     "license": "MIT",
     "minimum-stability": "dev",
