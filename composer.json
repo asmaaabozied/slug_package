@@ -1,0 +1,16 @@
+{
+    "name": "asmaa/slug",
+    "description": "package Slug By Asmaa",
+    "type": "library",
+    "require": {
+       
+    },
+    "license": "MIT",
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-4": {
+            "asmaa\\slug\\": "src/"
+                    }
+                }
+}
